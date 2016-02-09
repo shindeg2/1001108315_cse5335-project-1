@@ -1,4 +1,7 @@
 == README
+Web Data Management Project 1
+Gayatri Narayan Shinde
+1001108315
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
