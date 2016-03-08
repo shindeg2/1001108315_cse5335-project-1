@@ -22,10 +22,15 @@ I didnot have to add any other components apart from client ans server framework
 6] What Ubuntu commands are required to deploy and run your server?
 Once my application was ready and I had placed my files correctly according to the rails documentation, I used following commands to deploy my app on heroku.
 rails server //  http://localhost:3000  //checking if the application is working properly locally
+
 git status // check if changes are made.
+
 git add -A // adding the files not yet updated in the repository to the staging area.
+
 git commit -m "message" //committing the changes made with a message to remember why that commit was done.
+
 git push  //asks github username and password. Adding the files to github
+
 git push heroku  // https://mysterious-taiga-41477.herokuapp.com/    // deployed successfully if not then you can view logs and make changes.
 
 
