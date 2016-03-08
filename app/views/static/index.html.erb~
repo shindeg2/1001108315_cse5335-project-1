@@ -47,7 +47,7 @@ table, td, th {
 <div class="box2" id="map-canvas" style="float:left; width:80%; margin-left:10px;"></div>
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"></script>
-<script type="text/javascript" src="assets/action.js"></script>
+<script type="text/javascript" src="action.js"></script>
 
 <script
     src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCJnj2nWoM86eU8Bq2G4lSNz3udIkZT4YY">
@@ -55,6 +55,6 @@ table, td, th {
 <script type="text/javascript"src="http://www.google.com/jsapi?key=AIzaSyCJnj2nWoM86eU8Bq2G4lSNz3udIkZT4YY">
 <script type="text/javascript"charset="utf-8">google.load("maps","2.x"); google.load("jquery","1.3.1");</script>
 <script type="text/javascript" src="http://canvasjs.com/assets/script/canvasjs.min.js"></script>
-<script type="text/javascript" src="assets/Chart.js"></script>
+<script type="text/javascript" src="Chart.js"></script>
 
 </html>
