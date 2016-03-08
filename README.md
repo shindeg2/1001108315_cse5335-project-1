@@ -31,7 +31,7 @@ git commit -m "message" //committing the changes made with a message to remember
 
 git push  //asks github username and password. Adding the files to github
 
-git push heroku  // https://mysterious-taiga-41477.herokuapp.com/    // deployed successfully if not then you can view logs and make changes.
+git push heroku  // https://cse5335-1001108315.herokuapp.com/    // deployed successfully if not then you can view logs and make changes.
 
 
 
